@@ -1,0 +1,8 @@
+{
+  "name": "Apex Automotive Intelligence",
+  "description": "A next-generation, premium automotive data platform featuring AI-powered media analysis, predictive matching, and interactive performance visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
